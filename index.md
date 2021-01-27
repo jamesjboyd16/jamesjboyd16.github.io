@@ -1,5 +1,6 @@
 ---
-layout: default
+title: New Website
+description: Titles and descriptions can be changed.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
