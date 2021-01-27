@@ -5,4 +5,4 @@ description: Showcasing some of my code and projects.
 
 This is content I've studied for my courses.
 
-- [Basic Graphing Assignment](/graphing/index.md)
+- [Basic Graphing Assignment HTML And Jupyter Notebook](/graphing/index.md)
