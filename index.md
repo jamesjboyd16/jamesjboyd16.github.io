@@ -8,3 +8,6 @@ description: Showcasing some of my code and projects.
 This is content I've studied for my courses.
 
 - [Basic Graphing Assignment HTML And Jupyter Notebook](/graphing/index.md)
+
+This is my sample repository.
+- [Sample Repository](https://github.com/jamesjboyd16/Sample)
